@@ -93,3 +93,32 @@ wd.adcolony.com
 # Pangle
 api-access.pangolin-sdk-toutiao.com
 pangolin.snssdk.com
+
+# Appnext
+www.appnext.com
+admin.appnext.com
+global.appnext.com
+globalcdnapi.appnext.com
+cdn.appnext.com
+cdn3.appnext.com
+appnext-a.akamaihd.net
+appnext.hs.llnwd.net
+
+# Liftoff / Vungle (новые хосты)
+config.ads.vungle.com
+adx.ads.vungle.com
+events.ads.vungle.com
+logs.ads.vungle.com
+
+# Bigo Ads
+www.adsbigo.com
+gdl.maxesads.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+
+# GeoEdge / AppHarbr (проверка креативов)
+rumcdn.geoedge.be
+
+# myTarget (дополнительно)
+my.target.com
