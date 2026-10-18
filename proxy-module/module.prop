@@ -1,0 +1,6 @@
+id=twinby_syncad_proxy
+name=Twinby AdBlock — sync-ad proxy
+version=v0.1.0
+versionCode=1
+author=skofqq
+description=Локальный прокси: на пути /sync-ad у twinby.ru отдаёт пустую рекламу, убирая рекламную карточку в ленте. Расшифровывает только трафик Twinby к twinby.ru. Ставится рядом с hosts-модулем.
