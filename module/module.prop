@@ -1,0 +1,6 @@
+id=twinby_adblock
+name=Twinby AdBlock
+version=v1.0.0
+versionCode=1
+author=skofqq
+description=Systemless hosts: блокирует рекламные SDK (Yandex Ads, myTarget, AdMob, AppLovin, Unity, ironSource и др.), через которые показывается реклама в Twinby.
