@@ -1,0 +1,124 @@
+# Рекламные SDK, которые встречаются в российских Android-приложениях.
+# Формат: один домен на строку, комментарии через #.
+# hosts не поддерживает маски, поэтому поддомены перечислены явно.
+
+# Yandex Mobile Ads / AdFox
+an.yandex.ru
+adfox.yandex.ru
+ads.adfox.ru
+banners.adfox.ru
+adsdk.yandex.ru
+mobile.yandexadexchange.net
+yandexadexchange.net
+ads.yandex.ru
+
+# myTarget / VK Реклама
+ad.mail.ru
+r.mradx.net
+ad.mytarget.com
+ad.vk.com
+
+# Google AdMob / Ad Manager
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+googleadservices.com
+www.googleadservices.com
+ad.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+imasdk.googleapis.com
+
+# Meta Audience Network
+an.facebook.com
+
+# AppLovin / MAX
+applovin.com
+a.applovin.com
+d.applovin.com
+rt.applovin.com
+ms.applovin.com
+ms4.applovin.com
+img.applovin.com
+assets.applovin.com
+prod-a.applovin.com
+prod-mediate-events.applovin.com
+applvn.com
+d.applvn.com
+rt.applvn.com
+
+# Unity Ads
+unityads.unity3d.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+publisher-config.unityads.unity3d.com
+webview.unityads.unity3d.com
+
+# ironSource / LevelPlay
+supersonicads.com
+init.supersonicads.com
+outcome-ssp.supersonicads.com
+gw.supersonicads.com
+ironsrc.mobi
+logs.ironsrc.mobi
+init.ironsrc.mobi
+
+# Liftoff / Vungle
+api.vungle.com
+ads.api.vungle.com
+events.api.vungle.com
+cdn-lb.vungle.com
+
+# Mintegral
+analytics.rayjump.com
+setting.rayjump.com
+net.rayjump.com
+configure.rayjump.com
+
+# InMobi
+api.w.inmobi.com
+sdkm.w.inmobi.com
+i.w.inmobi.com
+
+# Chartboost
+live.chartboost.com
+da.chartboost.com
+
+# AdColony / Digital Turbine
+ads30.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+# Pangle
+api-access.pangolin-sdk-toutiao.com
+pangolin.snssdk.com
+
+# Appnext
+www.appnext.com
+admin.appnext.com
+global.appnext.com
+globalcdnapi.appnext.com
+cdn.appnext.com
+cdn3.appnext.com
+appnext-a.akamaihd.net
+appnext.hs.llnwd.net
+
+# Liftoff / Vungle (новые хосты)
+config.ads.vungle.com
+adx.ads.vungle.com
+events.ads.vungle.com
+logs.ads.vungle.com
+
+# Bigo Ads
+www.adsbigo.com
+gdl.maxesads.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+
+# GeoEdge / AppHarbr (проверка креативов)
+rumcdn.geoedge.be
+
+# myTarget (дополнительно)
+my.target.com
